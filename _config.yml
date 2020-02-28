@@ -101,10 +101,8 @@ education:
  #  flairimageurl: http://stackoverflow.com/users/flair/258813.png
 
 intro: |
-  
-I have extensive knowledge of Java and its associated frameworks such as Spring and Hibernate (JPA). I also have fundamental knowledge of Python, Golang and Angular 4. I live the software development life cycle with Agile & Scrum Methodologies. 
-
-Apart from my technical interests, my hobbies include outdoor sports such as cricket, cycling, rock climbing and mountaineering. I have accomplished basic course in rock climbing with grade 'A' at Swami Vivekananda Institute of Mountaineering (SVIM), Gujarat.<br/><br/>
+  I have extensive knowledge of Java and its associated frameworks such as Spring and Hibernate (JPA). I also have fundamental knowledge of Python, Golang and Angular 4. I live the software development life cycle with Agile & Scrum Methodologies. <br/><br/>
+  Apart from my technical interests, my hobbies include outdoor sports such as cricket, cycling, rock climbing and mountaineering. I have accomplished basic course in rock climbing with grade 'A' at Swami Vivekananda Institute of Mountaineering (SVIM), Gujarat.<br/><br/>
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
