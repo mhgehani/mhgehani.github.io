@@ -34,15 +34,15 @@ skills:
 
 #Work experience is required
 roles:
- - title: 
+ - title: Associate
    start: 10/2018
    end: Ongoing
    employer: MSCI
-   description: Developing tools and processes to onboard Reference Data which is later consumed by downstream applications for index calculation
+   description: Developing tools and processes to onboard Reference Data which is later consumed by downstream applications
  - title: Sr. Software Engineer
    start: 06/2018
    end: 10/2018
-   employer: LTI
+   employer: CitiusTech
    description: Working on a range of functional and technical roles, primarily working on client sites in Financial Services in South Africa.
  - title: Software Engineer
    start: 08/2015
